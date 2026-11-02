@@ -2,6 +2,8 @@
 
 一款使用 **Unity 2022.3** 开发的 2D 弹弓物理闯关游戏，玩法参考《愤怒的小鸟》。仓库中同时包含**完整工程源码**与**可直接运行的 Windows 版本**，无需安装 Unity 即可开玩。
 
+> **直接下载游戏**：[ArgryBird-win64.zip](https://github.com/LXJ6668848/ArgryBird/releases/download/v1.0.0/ArgryBird-win64.zip)（38 MB，解压即玩）
+
 ![游戏画面预览](Assets/Image/MENU_LEVELSELECTION_1.png)
 
 ---
